@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Patel</h1>
 <h3 align="center">A Passionate Front End Developer from India.</h3>
 
-- 🌱 I’m currently learning **React.js , Node.js , Java etc.**
+- 🌱 I’m currently learning **Node.js , Java etc.**
 
-- 💬 Ask me about **HTML , CSS , JavaScript**
+- 💬 Ask me about **HTML , CSS , JavaScript , Tailwind , React.js**
 
 - 📫 How to reach me **iashishpatel11@gmail.com**
 
