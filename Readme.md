@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Front End Developer from India.</h3>
 
 # 💫 About Me:
-🌱 I’m currently in Data Analytics, Data Engineering and Data Scientist<br><br>💬 Ask me about HTML, CSS, JavaScript, Tailwind, Bootstrap, React.js, Next.js<br><br>📫 Reach me iashishpatel11@gmail.com<br><br>⚡ Fun fact I Think I Can Code
+🌱 I’m currently Wroking as a Data Analyst <br><br>💬 Ask me about HTML, CSS, JavaScript, Tailwind, Bootstrap, React.js, Next.js<br><br>📫 Reach me iashishpatel11@gmail.com<br><br>⚡ Fun fact I Think I Can Code
 
 
 ## 🌐 Socials:
