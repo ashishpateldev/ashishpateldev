@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Analyst from India.</h3>
 
 # 💫 About Me:
-🌱 I’m currently Wroking as a Data Analyst <br><br>💬 Ask me about HTML, CSS, JavaScript, Tailwind, Bootstrap, React.js, Next.js<br><br>📫 Reach me iashishpatel11@gmail.com<br><br>⚡ Fun fact I Think I Can Code
+🌱 I’m currently Wroking as a Data Analyst <br><br>💬 Ask me about Python,SQL,Power Bi,Power Apps,Azure <br><br>📫 Reach me iashishpatel11@gmail.com<br><br>⚡ Fun fact I Think I Can Code
 
 
 ## 🌐 Socials:
